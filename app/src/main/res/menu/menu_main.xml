@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/Item1" />
+    <item android:title="@string/Item2" />
+    <item
+        android:title="@string/Item3"
+        app:showAsAction="always">
+        <menu>
+            <item android:title="@string/SubItem1" />
+            <item android:title="@string/SubItem2" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="Item1">Show person</string>
+    <string name="Item2">Advance</string>
+    <string name="Item3">Person</string>
+    <string name="SubItem1">Add</string>
+    <string name="SubItem2">Delete</string>
+</resources>
